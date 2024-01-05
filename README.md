@@ -9,6 +9,6 @@ Students are expected to:
 Student Info
 =========================
 
-* Student Name: 
-* Student ID: 
+* Student Name: Pham Phu Hung
+* Student ID: BA12-081
 
